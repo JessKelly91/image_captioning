@@ -1,0 +1,1 @@
+A simple project to build a generative AI-Powered Image Captioning app.
